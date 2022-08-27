@@ -1,0 +1,20 @@
+{
+  "name": "ebs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanbrackets/jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmanbrackets/jenkins/issues"
+  },
+  "homepage": "https://github.com/usmanbrackets/jenkins#readme"
+}
