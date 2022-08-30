@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/usmanbrackets/jenkins/issues"
   },
-  "homepage": "https://github.com/usmanbrackets/jenkins#readme"
+  "homepage": "https://github.com/usmanbrackets/jenkins#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
